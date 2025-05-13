@@ -1,4 +1,4 @@
-<center><img src="/images/qcomp_quantumspain.jpg?raw=true" alt="Sistema de Ona" width="300"  /></center>
+<center><img src="/images/qcomp_quantumspain.jpg" alt="Sistema de Ona" width="300"  /></center>
 
 
 # Introducción a la computación cuántica
