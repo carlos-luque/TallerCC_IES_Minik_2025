@@ -6,4 +6,4 @@
 Carlos Luque, Instituto de Astrofísica de Canarias (carlos.luque@iac.es)
 
 
-- [Taller:](href=https://colab.research.google.com/github/carlos-luque/TallerCC_IES_Minik_2025/blob/main/Masterclass_2025_qibo.ipynb)
+- [Taller](https://colab.research.google.com/github/carlos-luque/TallerCC_IES_Minik_2025/blob/main/Masterclass_2025_qibo.ipynb)
